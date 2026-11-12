@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/abboryn-animated-card.svg" alt="Abboryn Digital — More Than Websites" width="100%" />
+<img src="./assets/abboryn-champagne-glass.svg" alt="Abboryn Digital — More Than Websites" width="100%" />
 
 <br />
 
-### ABBYLEIGH BODEN
-**Software Developer &nbsp; · &nbsp; Computer Science + AI Student &nbsp; · &nbsp; Founder, Abboryn Digital**
+### Abbyleigh Boden
+**Developer · AI Student · Founder of Abboryn Digital**
 
 *I build things that look considered, work intelligently, and solve actual problems.*
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 01 / THE PERSON BEHIND THE CODE
+### <img src="https://img.shields.io/badge/01-ABOUT_ME-C9A86A?style=flat-square&labelColor=3D302D" alt="01 About me" />
 
 I'm **Abbyleigh** — a UK-based developer, founder of **Abboryn Digital**, and a **Computer Science with Artificial Intelligence** student at **The Open University**.
 
@@ -56,7 +56,7 @@ Through Abboryn Digital, I'm building websites, software and AI-powered tools fo
 </tr>
 </table>
 
-### 02 / SELECTED WORK
+### <img src="https://img.shields.io/badge/02-SELECTED_WORK-C9A86A?style=flat-square&labelColor=3D302D" alt="02 Selected work" />
 
 <table>
 <tr>
@@ -111,7 +111,7 @@ Exploring reusable business management software: tenant-aware workspaces, approv
 
 <sub>Some client and product repositories are private. The projects above describe work I build; public links are provided where available.</sub>
 
-### 03 / MY TOOLKIT
+### <img src="https://img.shields.io/badge/03-MY_TOOLKIT-C9A86A?style=flat-square&labelColor=3D302D" alt="03 My toolkit" />
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Exploring reusable business management software: tenant-aware workspaces, approv
 
 </div>
 
-### 04 / CURRENTLY IN MOTION
+### <img src="https://img.shields.io/badge/04-CURRENTLY_IN_MOTION-C9A86A?style=flat-square&labelColor=3D302D" alt="04 Currently in motion" />
 
 ```text
 LEARNING    → Computer Science & AI at The Open University
@@ -149,7 +149,7 @@ EXPLORING   → AI integrations, automation and secure systems
 FOCUS       → Better software, better experiences, every iteration
 ```
 
-### 05 / BEYOND THE REPOSITORIES
+### <img src="https://img.shields.io/badge/05-BEYOND_THE_REPOSITORIES-C9A86A?style=flat-square&labelColor=3D302D" alt="05 Beyond the repositories" />
 
 I believe you learn software engineering by *making things* — testing ideas, breaking assumptions, debugging the details and improving the result. My projects are where creative direction and technical curiosity meet.
 
