@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/abboryn-banner.svg" alt="Abboryn Digital — More Than Websites" width="100%" />
+<img src="./assets/abboryn-animated-card.svg" alt="Abboryn Digital — More Than Websites" width="100%" />
 
 <br />
 
