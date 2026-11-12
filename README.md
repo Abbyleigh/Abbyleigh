@@ -1,76 +1,174 @@
 <div align="center">
 
-# Hi, I'm Abbyleigh 👋
+<img src="./assets/abboryn-banner.svg" alt="Abboryn Digital — More Than Websites" width="100%" />
 
-### Software Developer · Computer Science & AI Student · Founder of Abboryn Digital
+<br />
 
-**Building intelligent software, digital experiences and practical automation.**
+### ABBYLEIGH BODEN
+**Software Developer &nbsp; · &nbsp; Computer Science + AI Student &nbsp; · &nbsp; Founder, Abboryn Digital**
 
-[![Website](https://img.shields.io/badge/Abboryn_Digital-Website-C6A76A?style=for-the-badge)](https://abboryndigital.co.uk)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/Abbyleigh?tab=repositories)
-[![Instagram](https://img.shields.io/badge/Instagram-abboryn.digital-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abboryn.digital/)
+*I build things that look considered, work intelligently, and solve actual problems.*
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/EXPLORE_THE_STUDIO-C9A86A?style=for-the-badge&labelColor=111318&color=C9A86A)](https://abboryndigital.co.uk)
+[![Projects](https://img.shields.io/badge/VIEW_MY_WORK-17191F?style=for-the-badge&logo=github&logoColor=E9D5AE)](https://github.com/Abbyleigh?tab=repositories)
+[![Instagram](https://img.shields.io/badge/CONNECT-17191F?style=for-the-badge&logo=instagram&logoColor=E9D5AE)](https://www.instagram.com/abboryn.digital/)
 
 </div>
 
 ---
 
-## 👩‍💻 About me
+### 01 / THE PERSON BEHIND THE CODE
 
-I'm a UK-based developer and the founder of **[Abboryn Digital](https://abboryndigital.co.uk)**, a studio focused on web design, custom software, AI solutions and business automation.
+I'm **Abbyleigh** — a UK-based developer, founder of **Abboryn Digital**, and a **Computer Science with Artificial Intelligence** student at **The Open University**.
 
-I study **Computer Science with Artificial Intelligence at The Open University**, applying what I learn to hands-on projects. I'm interested in the full development process: designing usable interfaces, building reliable backends, integrating data and testing software.
+I love the space where design meets engineering: taking an idea from the first sketch to a working product, figuring out the difficult bits, and refining it until the experience feels effortless.
 
-- 🔭 **Building:** digital products, interactive simulations and business tools
-- 🧠 **Exploring:** AI, automation, software architecture and secure application development
-- 🎓 **Studying:** Computer Science with Artificial Intelligence
-- 💡 **Approach:** learn continuously, build practically and improve through testing
+Through Abboryn Digital, I'm building websites, software and AI-powered tools for real-world use. Alongside that, I'm developing my foundations in programming, algorithms, data and software architecture.
 
-## 🚀 Featured projects
+> **My philosophy:** beautiful design gets attention; thoughtful engineering makes it useful.
 
-### ✨ Abboryn Digital
-A boutique digital studio creating premium websites, bespoke software and intelligent solutions for businesses.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Visit the website](https://abboryndigital.co.uk)**
+**WHAT I BUILD**
 
-### 🏎️ FastOne Labs
-An interactive Formula 1 project exploring racing data, 3D circuit visualisation and strategy simulation.
+- Bespoke websites and digital experiences
+- Full-stack applications and dashboards
+- Business tools and workflow automation
+- Interactive data visualisations
+- Experiments with AI-assisted systems
 
-**[Explore FastOne Labs](https://fastonelabs.pages.dev)** · **[Repository](https://github.com/Abbyleigh/fastonelabs)**
+</td>
+<td width="50%" valign="top">
 
-### 📊 SoloLedger
-A lightweight application for UK sole traders, designed around income and expense tracking, customer management, invoicing and exports.
+**WHAT I'M LEARNING**
 
-### 🤖 Business automation
-Exploring reusable software systems, intelligent workflows and tools that simplify day-to-day business operations.
+- Computer Science & Artificial Intelligence
+- Python, algorithms and problem solving
+- Software design and testing
+- APIs, databases and security
+- Scalable application architecture
 
-## 🛠️ Technologies & tools
+</td>
+</tr>
+</table>
 
-**Languages:** Python · TypeScript · JavaScript · HTML · CSS
+### 02 / SELECTED WORK
 
-**Frontend:** React · Vite · Three.js
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Backend & data:** FastAPI · REST APIs · PostgreSQL
+#### ✦ ABBORYN DIGITAL
 
-**Development & deployment:** Git · GitHub · Cloudflare · Docker
+**Digital studio · Web · Software · AI**
 
-**Interests:** Artificial Intelligence · Full-Stack Development · Automation · Data Analysis · Software Architecture
+My own studio, built around premium digital design and intelligent technology. From high-performance websites to tailored business software and automation.
 
-> My stack continues to grow as I study, experiment and build.
+**[Explore the studio ↗](https://abboryndigital.co.uk)**
 
-## 🎯 What drives me
+</td>
+<td width="50%" valign="top">
 
-I want to make complex technology useful and accessible: from polished web experiences to applications that solve real problems. I'm developing my technical foundations while building products and learning from each iteration.
+#### 🏎️ FASTONE LABS
 
-## 📈 GitHub activity
+**F1 strategy · 3D · Data**
 
-[![GitHub profile](https://img.shields.io/badge/Explore_my_repositories-View_on_GitHub-24292f?style=flat-square&logo=github)](https://github.com/Abbyleigh?tab=repositories)
+An interactive Formula 1 strategy lab exploring racing telemetry, circuit visualisation, simulation and decision-making tools.
 
-## 🌐 Connect
+**[Experience FastOne ↗](https://fastonelabs.pages.dev)**
 
-- 🌍 [Abboryn Digital](https://abboryndigital.co.uk)
-- 📸 [Instagram — @abboryn.digital](https://www.instagram.com/abboryn.digital/)
-- 💻 [GitHub — @Abbyleigh](https://github.com/Abbyleigh)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ◈ SOLOLEDGER
+
+**Sole-trader tools · Invoicing · Reporting**
+
+A lightweight finance application for UK sole traders, designed to make income, expenses, customers and invoices easier to manage.
+
+**Product development project**
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ BUSINESS OS & AUTOMATION
+
+**Systems · Workflows · Architecture**
+
+Exploring reusable business management software: tenant-aware workspaces, approvals, dashboards and automation designed for practical operations.
+
+**Active development**
+
+</td>
+</tr>
+</table>
+
+<sub>Some client and product repositories are private. The projects above describe work I build; public links are provided where available.</sub>
+
+### 03 / MY TOOLKIT
+
+<div align="center">
+
+**LANGUAGES**
+
+![Python](https://img.shields.io/badge/Python-17191F?style=for-the-badge&logo=python&logoColor=E4C78D)
+![TypeScript](https://img.shields.io/badge/TypeScript-17191F?style=for-the-badge&logo=typescript&logoColor=E4C78D)
+![JavaScript](https://img.shields.io/badge/JavaScript-17191F?style=for-the-badge&logo=javascript&logoColor=E4C78D)
+![HTML5](https://img.shields.io/badge/HTML5-17191F?style=for-the-badge&logo=html5&logoColor=E4C78D)
+![CSS3](https://img.shields.io/badge/CSS3-17191F?style=for-the-badge&logo=css3&logoColor=E4C78D)
+
+**FRONTEND & VISUALISATION**
+
+![React](https://img.shields.io/badge/React-17191F?style=for-the-badge&logo=react&logoColor=E4C78D)
+![Vite](https://img.shields.io/badge/Vite-17191F?style=for-the-badge&logo=vite&logoColor=E4C78D)
+![Three.js](https://img.shields.io/badge/Three.js-17191F?style=for-the-badge&logo=threedotjs&logoColor=E4C78D)
+
+**BACKEND & DELIVERY**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-17191F?style=for-the-badge&logo=fastapi&logoColor=E4C78D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17191F?style=for-the-badge&logo=postgresql&logoColor=E4C78D)
+![Git](https://img.shields.io/badge/Git-17191F?style=for-the-badge&logo=git&logoColor=E4C78D)
+![GitHub](https://img.shields.io/badge/GitHub-17191F?style=for-the-badge&logo=github&logoColor=E4C78D)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-17191F?style=for-the-badge&logo=cloudflare&logoColor=E4C78D)
+![Docker](https://img.shields.io/badge/Docker-17191F?style=for-the-badge&logo=docker&logoColor=E4C78D)
+
+</div>
+
+### 04 / CURRENTLY IN MOTION
+
+```text
+LEARNING    → Computer Science & AI at The Open University
+BUILDING    → Abboryn Digital + product experiments
+EXPLORING   → AI integrations, automation and secure systems
+FOCUS       → Better software, better experiences, every iteration
+```
+
+### 05 / BEYOND THE REPOSITORIES
+
+I believe you learn software engineering by *making things* — testing ideas, breaking assumptions, debugging the details and improving the result. My projects are where creative direction and technical curiosity meet.
+
+I'm building a business and developing as an engineer at the same time. Both matter to me.
 
 ---
 
-<div align="center"><em>Building, learning and improving — one project at a time.</em></div>
+<div align="center">
+
+### HAVE AN IDEA WORTH BUILDING?
+
+**Websites. Software. Intelligent solutions.**
+
+[![Let's talk](https://img.shields.io/badge/LET'S_BUILD_SOMETHING-C9A86A?style=for-the-badge&labelColor=111318&color=C9A86A)](https://abboryndigital.co.uk/contact)
+
+<br />
+
+[Website](https://abboryndigital.co.uk) &nbsp; · &nbsp; [Instagram](https://www.instagram.com/abboryn.digital/) &nbsp; · &nbsp; [GitHub](https://github.com/Abbyleigh)
+
+<sub>© Abboryn Digital · Designed with intention. Built with curiosity.</sub>
+
+</div>
