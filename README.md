@@ -22,21 +22,25 @@ I'm still learning. I don't pretend to know everything, but I do enjoy figuring 
 
 ## Things I've been working on
 
-**[Abboryn Digital](https://abboryndigital.co.uk)**
+**[Abboryn Digital](https://abboryndigital.co.uk)** · [Private source repository](https://github.com/Abbyleigh/abboryn-digital-studio)
 
 My digital studio and probably the project I spend the most time on. I'm building the website, improving its performance and search visibility, and developing tools to manage more of the business behind the scenes.
 
-**[FastOne Labs](https://fastonelabs.pages.dev)** 🏎️
+**[FastOne Labs](https://github.com/Abbyleigh/fastonelabs)** 🏎️ · [Live site](https://fastonelabs.pages.dev)
 
 An F1 project where I get to combine coding with racing. It includes 3D circuit visuals, race data and experiments with strategy and pit-stop decisions. This one's been a good excuse to learn more about Three.js and working with live data.
 
-**SoloLedger**
+**[SoloLedger](https://github.com/Abbyleigh/Sololedger)** · [Try the beta](https://sololedger-4lt.pages.dev/)
 
 A finance tool I've been developing for UK sole traders. The idea is to make the boring admin a bit easier: tracking money in and out, managing customers and creating invoices.
 
 **Business OS**
 
 A bigger work-in-progress: building reusable software for managing different businesses, rather than starting from scratch every time. I'm currently working through the less glamorous but important parts, like accounts, permissions, databases and testing.
+
+**[Safe Phase Electrical — website concept](https://github.com/Abbyleigh/safe-phase-electrical-concept)**
+
+An unofficial redesign concept for an electrical contractor. I use projects like this to practise responsive layouts, clear navigation and building websites around what customers actually need.
 
 ## What I use
 
