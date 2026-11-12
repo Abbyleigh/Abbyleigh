@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Animated Abboryn Digital glass business card banner">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08090d"/><stop offset=".52" stop-color="#17151a"/><stop offset="1" stop-color="#080a10"/></linearGradient>
+<radialGradient id="a"><stop stop-color="#b58a48" stop-opacity=".28"/><stop offset="1" stop-color="#b58a48" stop-opacity="0"/></radialGradient>
+<linearGradient id="glass" x2="1" y2="1"><stop stop-color="#e3d3b5" stop-opacity=".18"/><stop offset=".35" stop-color="#0d1015" stop-opacity=".85"/><stop offset=".75" stop-color="#1e1a19" stop-opacity=".83"/><stop offset="1" stop-color="#b68e54" stop-opacity=".18"/></linearGradient>
+<linearGradient id="gold" x2="1" y2=".2"><stop stop-color="#f7e7c2"/><stop offset=".3" stop-color="#b98642"/><stop offset=".52" stop-color="#f5d69d"/><stop offset=".8" stop-color="#9e6d35"/><stop offset="1" stop-color="#fff1c9"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#ffe3a9" stop-opacity=".27"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="shadow" x="-30%" y="-60%" width="160%" height="240%"><feGaussianBlur stdDeviation="13"/></filter>
+<filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" stroke="#c5a16c" stroke-opacity=".07" fill="none"/></pattern>
+<clipPath id="cardclip"><rect x="-260" y="-117" width="520" height="234" rx="21"/></clipPath>
+</defs>
+<style>
+.card{transform-origin:600px 176px;animation:turn 11s ease-in-out infinite}
+.light{animation:sweep 11s ease-in-out infinite}
+.pulse{animation:pulse 6s ease-in-out infinite}
+@keyframes turn{0%,12%{transform:perspective(950px) rotateY(-8deg) translateY(0)}28%{transform:perspective(950px) rotateY(23deg) translateY(-4px)}46%{transform:perspective(950px) rotateY(0deg) translateY(0)}65%{transform:perspective(950px) rotateY(-23deg) translateY(-4px)}82%,100%{transform:perspective(950px) rotateY(-8deg) translateY(0)}}
+@keyframes sweep{0%,14%{transform:translateX(-650px)}50%,100%{transform:translateX(650px)}}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.card,.light,.pulse{animation:none}}
+</style>
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+<ellipse cx="600" cy="180" rx="500" ry="270" fill="url(#a)" class="pulse"/>
+<ellipse cx="600" cy="314" rx="270" ry="20" fill="#c89554" opacity=".24" filter="url(#shadow)"/>
+<path d="M50 48h78M50 48v52M1150 312h-78M1150 312v-52" stroke="#c7a46e" stroke-opacity=".55" stroke-width="1.5" fill="none"/>
+<g class="card">
+<rect x="340" y="59" width="520" height="234" rx="21" fill="#d7aa65" opacity=".45" filter="url(#glow)"/>
+<g transform="translate(600 176)">
+<rect x="-260" y="-117" width="520" height="234" rx="21" fill="url(#glass)" stroke="url(#gold)" stroke-width="3"/>
+<rect x="-250" y="-107" width="500" height="214" rx="16" fill="none" stroke="#ffe5b2" stroke-opacity=".28"/>
+<g clip-path="url(#cardclip)">
+<path d="M-280 40Q-205 -120 -80 -128" stroke="url(#gold)" stroke-width="4" fill="none" opacity=".9"/>
+<path d="M170 145Q230 90 285 -22" stroke="url(#gold)" stroke-width="3" fill="none" opacity=".85"/>
+<rect class="light" x="-65" y="-180" width="130" height="360" transform="skewX(-19)" fill="url(#shine)"/>
+</g>
+<text y="-12" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="99" font-style="italic" fill="url(#gold)">A</text>
+<text y="43" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="38" letter-spacing="9" fill="url(#gold)">ABBORYN</text>
+<path d="M-116 64h58M58 64h58" stroke="#d8ad6e" stroke-width="2"/>
+<text y="71" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="17" letter-spacing="8" fill="#f4d6a1">DIGITAL</text>
+</g></g>
+<text x="600" y="334" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="5" fill="#c8ad83">MORE THAN WEBSITES</text>
+</svg>
